@@ -19,7 +19,7 @@ assignees: ''
 [Your description here]
 
 **Additional context:**  
-(add any other context about the problem here)  
+(add any other context here)  
 [Your description here]
 
 **Related issues:**  
