@@ -1,36 +1,37 @@
 ---
-name: Bug template
+name: Bug Report
 about: This template to be used for Bugs
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-## Current behaviour
-(provide description of current, undesired behaviour)
+**Describe the bug (mandatory)**    
+(a clear and concise description of what the bug is)  
+[Your description here]
 
-## Expected behaviour
-(provide description of expected behaviour)
+**To reproduce:**  
+(steps to reproduce the behavior)  
+[Your description here]
 
-## Steps to reproduce
-(how to reproduce this bug: mention technical environment and steps)
+**Expected behaviour:**  
+(a clear and concise description of what you expected to happen)  
+[Your description here]
 
-## Logs, screens, other evidence of a bug occurence 
-(attach logs, screens, other evidcence if available)
+**Logs, screens, other evidence of a bug:**  
+(attach logs, screens, other evidcence if available)  
+[Your description here]
 
-## Related issues
-(use: nature of relation, e.g. is blocked by #issue number)
+**Related issues:**  
+[use #issue number]
 
-## Definition of Ready
-- [ ] [DoRs met](https://www.notion.so/appliedaiinitiative/DoR-and-DoD-50da010eb0b14f9aa574c6be05f65370)
+**Environment:**
+ - Your OS: [e.g. Windows 11 Pro]
+ - lakeFS-spec version: [e.g. 0.4.0]
+ - lakeFS version: [e.g. 1.3.0]
+ - how lakeFS is deployed: [e.g AWS EC2, Docker or Kubernetes, locally]  
 
-## Definition of Done
-- [ ] All acceptance criteria met
-- [ ] Code reviewed by another person, all issues addressed
-- [ ] Changes sufficiently covered by tests
-- [ ] Documentation updated
-- [ ] Code merged
-
-## Acceptance Criteria
-- [ ] Expected behaviour restored
+**Additional context:**  
+(add any other context about the problem here)  
+[Your description here]
