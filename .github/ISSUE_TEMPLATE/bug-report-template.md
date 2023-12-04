@@ -20,7 +20,7 @@ assignees: ''
 [Your description here]
 
 **Logs, screens, other evidence of a bug:**  
-(attach logs, screens, other evidcence if available)  
+(attach logs, screens, other evidence if available)  
 [Your description here]
 
 **Related issues:**  
