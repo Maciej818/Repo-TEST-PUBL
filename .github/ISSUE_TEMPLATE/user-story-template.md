@@ -28,5 +28,5 @@ assignees: ''
 **Acceptance Criteria (mandatory to start implementation):**
  - [ ] [your testable acceptance criteria here]  
 
-**Definition of Done (mandatory to close an issue):**
+**Definition of Done (mandatory to close an issue as completed):**
  - [ ] All applicable DoDs met
