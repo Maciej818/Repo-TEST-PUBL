@@ -11,7 +11,7 @@ assignees: ''
 (a clear and concise description of the problem or use case)  
 [Your description here]
 
-**Requested solution (manadatory):**  
+**Requested solution (mandatory):**  
 (a clear and concise description of what you want to happen ort achieve)  
 
 **Proposed implementation approach:**  
