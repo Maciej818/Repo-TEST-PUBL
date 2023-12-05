@@ -1,9 +1,8 @@
-name: Bug Report
+name: Bug Report Yaml
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["Team Engineering Project"]
-assignees: ""
 body:
   - type: input
     id: bug_description
