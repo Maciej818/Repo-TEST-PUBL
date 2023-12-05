@@ -1,6 +1,6 @@
 name: Feature Request Yaml
 description: File a feature request or task
-title: ""
+title: "[FEAT] "
 labels: ["triage"]
 projects: ["Team Engineering Project"]
 body:
