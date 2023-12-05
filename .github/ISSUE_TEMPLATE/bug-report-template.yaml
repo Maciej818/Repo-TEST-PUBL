@@ -76,6 +76,6 @@ body:
     id: related_issues
     attributes:
       label: Related issues
-      description: use #issue number
+      description: use "#issue number"
     validations:
       required: false      
