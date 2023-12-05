@@ -40,19 +40,9 @@ body:
     attributes:
       value: Environment
   - type: input
-    id: email
-    attributes:
-      label: Email
-      description: "Input your email (e.g., mj@mjexperts.com.pl)"
-      placeholder: "you@example.com"
-    validations:
-      required: true
-  - type: input
     id: operational_system
     attributes:
-      label: Your OS
-      description: Your OS
-      placeholder: e.g. Windows 11 Pro 
+      placeholder: Your operation system e.g. Windows 11 Pro 
     validations:
       required: false
 
