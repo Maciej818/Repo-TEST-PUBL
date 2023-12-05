@@ -26,7 +26,7 @@ assignees: ''
 [use #issue number]
 
 **Acceptance Criteria (mandatory to start implementation):**
- - [ ] [your testable acceptance criteria here]  
+ - [ ] [your testable Acceptance Criteria here]  
 
 **Definition of Done (mandatory to close an issue as completed):**
- - [ ] All applicable DoDs met
+ - [ ] All applicable Definition of Done met
