@@ -40,6 +40,14 @@ body:
     attributes:
       value: Environment
   - type: input
+    id: email
+    attributes:
+      label: Email
+      description: "Input your email (e.g., mj@mjexperts.com.pl)"
+      placeholder: "you@example.com"
+    validations:
+      required: true
+  - type: input
     id: operational_system
     attributes:
       label: Your OS
