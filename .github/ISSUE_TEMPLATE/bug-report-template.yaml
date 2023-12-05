@@ -4,7 +4,7 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["Team Engineering Project"]
 body:
-  - type: input
+  - type: textarea
     id: bug_description
     attributes:
       label: Describe the bug
@@ -12,3 +12,41 @@ body:
       placeholder: e.g. Given the latest version of lakefs_spec is installed on my env, when importing lakefs-spec, then getting error "No module named lakefs_spec
     validations:
       required: true
+  - type: textarea
+    id: to_reproduce
+    attributes:
+      label: To reproduce
+      description: Steps to reproduce the behavior
+      placeholder: e.g. Just run `import lakefs_spec` on your venv 
+    validations:
+      required: false
+  - type: textarea
+    id: expected_bahaviour
+    attributes:
+      label: Expected behaviour
+      description: A clear and concise description of what you expected to happen
+      placeholder: e.g. lakefs_spec is imported without errors 
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs, screens, other evidence of a bug
+      description: Attach logs, screens, other evidence if available
+      placeholder: 
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: Environment
+  - type: input
+    id: operational_system
+    attributes:
+      description: Your OS
+      placeholder: e.g. Windows 11 Pro 
+    validations:
+      required: false
+
+
+
+      
