@@ -23,9 +23,6 @@ assignees: ''
 (attach logs, screens, other evidence if available)  
 [Your description here]
 
-**Related issues:**  
-[use #issue number]
-
 **Environment:**
  - Your OS: [e.g. Windows 11 Pro]
  - lakeFS-spec version: [e.g. 0.4.0]
@@ -35,3 +32,6 @@ assignees: ''
 **Additional context:**  
 (add any other context about the problem here)  
 [Your description here]
+
+**Related issues:**  
+[use #issue number]
