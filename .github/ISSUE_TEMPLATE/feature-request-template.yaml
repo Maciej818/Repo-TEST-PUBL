@@ -47,6 +47,9 @@ body:
     attributes:
       value: |
         ## Acceptance Criteria (mandatory to start implementation)
+  - type: markdown
+    attributes:
+      value: |
         - [ ] Criterion 1
         - [ ] Criterion 2
         - [ ] Criterion 3
