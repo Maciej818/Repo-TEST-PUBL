@@ -43,17 +43,14 @@ body:
       description: use "#issue number"
     validations:
       required: false      
-  - type: markdown
+  - type: textarea
+    id: acceptance_criteria
     attributes:
-      value: |
-        ## Acceptance Criteria (mandatory to start implementation)
-  - type: markdown
-    attributes:
-      value: |
-        - [ ] Criterion 1
-        - [ ] Criterion 2
-        - [ ] Criterion 3
-        - [ ] Add more as needed
+      label: Acceptance Criteria (mandatory to start implementation)
+      description: Use "Task list" option to build a list of testable acceptance criteria
+      placeholder: 
+    validations:
+      required: false
   - type: checkboxes
     id: dod
     attributes:
