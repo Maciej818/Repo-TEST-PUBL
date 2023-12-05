@@ -42,6 +42,7 @@ body:
   - type: input
     id: operational_system
     attributes:
+      label: Your OS
       description: Your OS
       placeholder: e.g. Windows 11 Pro 
     validations:
