@@ -12,10 +12,10 @@ assignees: ''
 [Your description here]
 
 **Requested solution (mandatory):**  
-(a clear and concise description of what you want to happen ort achieve)  
+(a clear and concise description of what you want to happen or achieve)  
 
 **Proposed implementation approach:**  
-(use: nature of relation, e.g. is blocked by #issue number)  
+(a clear and concise description of how you want to implement your solution)
 [Your description here]
 
 **Additional context:**  
