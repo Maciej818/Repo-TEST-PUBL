@@ -42,7 +42,7 @@ body:
   - type: input
     id: operational_system
     attributes:
-      placeholder: Your operation system e.g. Windows 11 Pro 
+      placeholder: "Your operation system e.g. Windows 11 Pro" 
     validations:
       required: false
 
