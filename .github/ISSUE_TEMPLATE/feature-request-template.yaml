@@ -11,7 +11,7 @@ body:
       description: A clear and concise description of the problem or use case
       placeholder: e.g. It is difficult to get and use one of the previous versions of data (already overwritten by updated data) in your ML experiment.  
     validations:
-      required: false
+      required: true
   - type: textarea
     id: solution
     attributes:
