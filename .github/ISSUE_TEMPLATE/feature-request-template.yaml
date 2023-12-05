@@ -43,6 +43,18 @@ body:
       description: use "#issue number"
     validations:
       required: false      
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: "List the criteria that must be met for this feature to be considered complete"
+      placeholder: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+        - [ ] Criterion 3
+        - [ ] Add more as needed
+    validations:
+      required: false
   - type: checkboxes
     id: dod
     attributes:
