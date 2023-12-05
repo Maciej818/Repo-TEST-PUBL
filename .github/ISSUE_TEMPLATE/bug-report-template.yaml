@@ -40,7 +40,7 @@ body:
     id: operational_system
     attributes:
       label: Your operation system
-      placeholder: e.g. Windows 11 Pr
+      placeholder: e.g. Windows 11 Pro
     validations:
       required: false
   - type: input
@@ -76,6 +76,6 @@ body:
     id: related_issues
     attributes:
       label: Related issues
-      placeholder: use #issue number
+      description: use #issue number
     validations:
       required: false      
