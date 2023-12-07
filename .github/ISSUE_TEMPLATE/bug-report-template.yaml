@@ -19,7 +19,7 @@ body:
       description: Steps to reproduce the behavior
       placeholder: e.g. Just run `import lakefs_spec` on your venv 
     validations:
-      required: false
+      required: true
   - type: textarea
     id: expected_bahaviour
     attributes:
