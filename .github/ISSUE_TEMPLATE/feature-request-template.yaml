@@ -20,6 +20,12 @@ body:
       placeholder: e.g. I want to get previous (overwritten) data version after indicating a commit SHA 
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **Additional Information (Primarily for Project Team):**
+        This section is typically completed by our project team to enhance issue preparation and tracking. However, if you have any relevant information or insights you'd like to share, please feel free to add them here.
   - type: textarea
     id: proposed_approach
     attributes:
