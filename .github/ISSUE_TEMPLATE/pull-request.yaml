@@ -1,4 +1,4 @@
-name: Pull Request Yaml
+name: Pull Request Yaml Test
 description: File a pull request
 body:
   - type: markdown
