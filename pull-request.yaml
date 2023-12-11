@@ -1,4 +1,4 @@
-name: Pull Request Yaml
+name: Pull Request
 description: File a pull request
 body:
   - type: markdown
