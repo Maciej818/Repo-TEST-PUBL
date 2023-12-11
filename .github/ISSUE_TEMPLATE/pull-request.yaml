@@ -3,7 +3,7 @@ description: File a pull request
 body:
   - type: markdown
     attributes:
-      value: closes [#issue] 
+      value: Closes [#issue] 
   - type: textarea
     id: describe_change
     attributes:
