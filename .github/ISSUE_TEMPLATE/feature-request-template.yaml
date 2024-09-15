@@ -25,7 +25,7 @@ body:
       value: |
         ---
         ### ADDITIONAL INFORMATION (Primarily for Project Team):
-        The sections below this line are typically completed by our project team to enhance issue preparation and tracking. However, if you have any relevant information or insights you'd like to share, please feel free to add them here.
+        The sections below this line are typically completed by our project team to enhance issue preparation and tracking. However, if you have any relevant information or insights you'd like to share, please feel free to add them here
   - type: textarea
     id: proposed_approach
     attributes:
